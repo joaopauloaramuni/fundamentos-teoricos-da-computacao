@@ -1,6 +1,10 @@
 # Fundamentos Teóricos da Computação
 Repo Fundamentos Teóricos da Computação
 
+Disciplina do curso de Ciência da Computação da Universidade FUMEC
+
+(2016-2020)
+
 https://www.amazon.com.br/Introdução-Teoria-Autômatos-Linguagens-Computação/dp/8535210725
 <br>https://www.amazon.com.br/Introdução-aos-fundamentos-computação-Linguagens/dp/8522105081
 <br>https://homepages.dcc.ufmg.br/~nvieira/
