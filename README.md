@@ -7,7 +7,7 @@
         </tr> 
         <tr>
             <td>
-                <img width="1280px" height="360px" alt="fumec" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fumec-logo.jpg?raw=true"/>
+                <img alt="fumec" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fumec-logo.jpg?raw=true"/>
             </td>
         </tr>
         <tr>
