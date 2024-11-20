@@ -1,5 +1,24 @@
 # Fundamentos Teóricos da Computação
-Repo Fundamentos Teóricos da Computação
+
+<div align="center">
+    <table>
+        <tr>
+         <td align="center"></td>
+        </tr> 
+        <tr>
+            <td>
+                <img alt="fumec" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fumec-logo.jpg?raw=true"/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"></td>
+        </tr> 
+    </table>
+</div>
+
+-----
+
+# Repo Fundamentos Teóricos da Computação
 
 Disciplina do curso de Ciência da Computação da Universidade FUMEC
 
