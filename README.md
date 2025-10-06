@@ -23,6 +23,8 @@
 
 # Repo Fundamentos Teóricos da Computação
 
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/fundamentos-teoricos-da-computacao?style=for-the-badge&logo=files) ![GitHub directory file count](https://img.shields.io/github/directory-file-count/joaopauloaramuni/fundamentos-teoricos-da-computacao?style=for-the-badge&logo=files) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/fundamentos-teoricos-da-computacao?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/fundamentos-teoricos-da-computacao?style=for-the-badge&logo=git) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/fundamentos-teoricos-da-computacao?style=for-the-badge&logo=python) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/fundamentos-teoricos-da-computacao?style=for-the-badge&color=007ec6&logo=opensourceinitiative) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/joaopauloaramuni/fundamentos-teoricos-da-computacao?style=for-the-badge&color=007ec6&logo=gitkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/fundamentos-teoricos-da-computacao?style=for-the-badge&logo=clockify) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%fundamentos-teoricos-da-computacao&leftColor=555555&rightColor=007ec6&type=total&label=RepoViews)  
+
 Disciplina do curso de Ciência da Computação da Universidade FUMEC
 
 (2016-2020)
