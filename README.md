@@ -38,8 +38,12 @@ Disciplina do curso de Ciência da Computação da Universidade FUMEC
 - [Simulador de AFs em Python](https://github.com/joaopauloaramuni/fundamentos-teoricos-da-computacao/tree/main/SIMULADOR)
 
 #### Links úteis:
-- [Introdução à Teoria de Autômatos, Linguagens e Computação (Amazon)](https://www.amazon.com.br/Introdução-Teoria-Autômatos-Linguagens-Computação/dp/8535210725)
-- [Introdução aos Fundamentos de Computação: Linguagens (Amazon)](https://www.amazon.com.br/Introdução-aos-fundamentos-computação-Linguagens/dp/8522105081)
+
+- 📕 [Introdução à Teoria de Autômatos, Linguagens e Computação (Amazon)](https://www.amazon.com.br/Introdução-Teoria-Autômatos-Linguagens-Computação/dp/8535210725)
+- 📘 [Structure and Interpretation of Computer Programs (SICP) – Harold Abelson & Gerald Jay Sussman (1996)](https://web.mit.edu/6.001/6.037/sicp.pdf)
+- 📗 [Introdução aos Fundamentos da Computação: Linguagens e Máquinas – Newton José Vieira (2006)](https://www.amazon.com.br/Introdução-aos-fundamentos-computação-Linguagens/dp/8522105081)
+  - 🌐 Página do autor: [https://homepages.dcc.ufmg.br/~nvieira/](https://homepages.dcc.ufmg.br/~nvieira/)
+  - 👨‍🏫 Professor Associado aposentado do Departamento de Ciência da Computação da UFMG.
 - [Nivio Ziviani - Home Page](https://homepages.dcc.ufmg.br/~nvieira/)
 - [JFLAP](https://www.jflap.org/)
 - [VauCanSon-G](https://igm.univ-mlv.fr/~lombardy/Vaucanson-G/)
